@@ -1,0 +1,1 @@
+Microsoft Flight Simlator History=||=sys.fshistory.png=||=window.location.href='fshistory.htm';
