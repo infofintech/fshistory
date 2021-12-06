@@ -5,7 +5,7 @@ Play and Enjoy the History of Microsoft Flight Simulator
 
 # **[Click to play][project demo]**
 
-![web demonstration](images/slides.gif)
+![web demonstration](slides.gif)
 
 Do you know how many Flight Simulators Microsoft developed? It has been more than [ten](https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator) with [Microsoft Flight Simulator (2020)](https://de.wikipedia.org/wiki/Microsoft_Flight_Simulator_(2020)) being the latest version that has been released. 
 
