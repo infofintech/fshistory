@@ -449,7 +449,7 @@ function Main(version) {
     };
 
     Promise
-        .all([fetch('fshistory.wasm'), fetch('data/fs'+version+'.fs.bz2')])
+        .all([fetch('fshistory.wasm'), fetch('fs'+version+'.fs.bz2')])
         .then(responses => Promise.all([responses[0].arrayBuffer(), responses[1].arrayBuffer()]))
         .then(data => Promise.all([WebAssembly.instantiate(data[0], importOb), Promise.resolve(data[1])])
     ).then(
