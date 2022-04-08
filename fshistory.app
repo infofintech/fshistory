@@ -1,1 +1,1 @@
-Flight Simulator=||=sys.airplane.png=||=window.location.href='fshistory.htm';
+Flight Simulator|[1]|sys.airplane.png|[1]|window.location.href='fshistory.htm';
