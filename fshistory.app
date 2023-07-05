@@ -1,1 +1,0 @@
-title|[>]|Flight Simulator|[1]|favicon|[>]|sys.airplane.png|[1]|run|[>]|window.location.href='fshistory.htm';
